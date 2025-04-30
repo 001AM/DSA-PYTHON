@@ -1,5 +1,3 @@
-                                
-                     
 import math
 
 # Function to check if a
